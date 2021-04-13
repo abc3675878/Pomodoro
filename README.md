@@ -1,24 +1,5 @@
 # clock
 
-## Project setup
-```
-npm install
-```
+https://abc3675878.github.io/Pomodoro/
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+番茄鐘Vue實作
